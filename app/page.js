@@ -99,7 +99,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-tr from-[#0f172a] to-[#1e293b] text-white px-6 py-12 font-sans">
       <div className="max-w-5xl mx-auto bg-[#111827] p-10 rounded-3xl shadow-2xl border border-indigo-600/40 animate-fade-in">
         <h1 className="text-5xl font-extrabold text-indigo-400 mb-4 text-center tracking-tight drop-shadow-lg">
-          WebBoost Analyzer <span className="animate-pulse">🚀</span>
+          WebBoost Analyzer 
         </h1>
         <p className="text-center mt-4 text-gray-400 mb-10 text-lg">
           أدخل الكود البرمجي الخاص بك، وسنقوم بتحليله وتصحيحه لك تلقائيًا 🔧
